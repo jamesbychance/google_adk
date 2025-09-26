@@ -206,5 +206,3 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# custom files/dirs to skip
-not_working_yet/
