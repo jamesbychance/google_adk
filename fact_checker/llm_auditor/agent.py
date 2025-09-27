@@ -29,8 +29,6 @@ if os.getenv('GOOGLE_API_KEY'):
 from .sub_agents.critic import critic_agent
 from .sub_agents.reviser import reviser_agent
 
-
-
 llm_auditor = SequentialAgent(
     name='llm_auditor',
     description=(
