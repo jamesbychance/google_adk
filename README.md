@@ -11,3 +11,4 @@ This repository contains several agentic projects, each in its own directory:
 - **programatic_agent/** - A cryptocurrency symbol agent demonstrating Google ADK's programmatic API usage with structured output schemas for agent-to-agent communication
 - **weather_tools/** - A multi-tool agent with weather and time capabilities for a specific location, demonstrating basic tool integration with ADK
 - **website_scraper/** - A web scraping agent that uses CrewAI tools to extract and analyse content from websites, specifically designed to scrape the latest news from YC Hacker News
+- **wiki_agent/** - A research agent that answers questions by querying Wikipedia using LangChain tools to provide comprehensive, fact-based information on various topics
