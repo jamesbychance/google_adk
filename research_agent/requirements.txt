@@ -1,0 +1,13 @@
+langchain-community==0.3.28
+langchain-huggingface
+wikipedia==1.4.0
+crewai==0.95.0
+crewai-tools==0.33.0
+dateparser==1.2.2
+pandas==2.2.3
+litellm==1.76.0
+chromadb
+pypdf
+sentence-transformers
+python-dotenv
+google-adk

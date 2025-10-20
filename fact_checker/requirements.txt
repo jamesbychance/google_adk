@@ -1,0 +1,4 @@
+scikit-learn==1.7.1
+google-generativeai
+google-adk
+python-dotenv
